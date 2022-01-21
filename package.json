@@ -1,0 +1,31 @@
+{
+  "name": "picgo-plugin-feebuf",
+  "version": "1.0.0",
+  "description": "freebuf 图床",
+  "main": "src/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "",
+  "scripts": {
+    "publish": "npm publish --registry http://registry.npmjs.org",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch": "npm version patch && git push origin master && git push origin --tags",
+    "minor": "npm version minor && git push origin master && git push origin --tags",
+    "major": "npm version major && git push origin master && git push origin --tags"
+  },
+  "keywords": [
+    "picgo",
+    "picgo-gui-plugin",
+    "picgo-plugin",
+    "picgo-plugin-freebuf",
+    "freebuf"
+  ],
+  "author": "minxio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minxio/picgo-plugin-freebuf"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}
