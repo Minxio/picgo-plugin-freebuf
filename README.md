@@ -9,9 +9,9 @@
 
 1. 将此存储库克隆/下载到 PicGo 配置文件夹。
 
-在 Windows 中，它是 `C:\Users\<your username>\.picgo\`
+在 Windows 中，它是 `C:\Users\<your username>\.picgo\node_modules\`
 
-在 linux 和 mac 中，它是 `~/.picgo/`
+在 linux 和 mac 中，它是 `~/.picgo/node_modules\`
 
 ```
 git clone https://github.com/minxio/picgo-plugin-freebuf.git
