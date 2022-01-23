@@ -24,7 +24,7 @@
   "author": "minxio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/minxio/picgo-plugin-freebuf"
+    "url": "https://github.com/Minxio/picgo-plugin-freebuf.git"
   },
   "license": "MIT",
   "devDependencies": {}
